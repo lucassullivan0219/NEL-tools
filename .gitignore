@@ -1,5 +1,7 @@
 __pycache__/
-*.pyc
-.DS_Store
-*.mat
-.ipynb_checkpoints
+*.py[cod]
+.ipynb_checkpoints/
+dist/
+build/
+*.egg-info/
+.env
